@@ -1,0 +1,17 @@
+﻿  demo.cpp
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(526): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(527): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(545): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(546): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\demo.cpp(23): warning C4101: “y”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\demo.cpp(23): warning C4101: “x”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\demo.cpp(79): warning C4101: “y”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\demo.cpp(79): warning C4101: “x”: 未引用的局部变量
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(39): warning C4838: 从“int”转换到“size_t”需要收缩转换
+  c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(524): note: 参见对正在编译的函数 模板 实例化“Array<BYTE>::Array<UINT,UINT,int>(UINT,UINT,int)”的引用
+  c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(524): note: 参见对正在编译的函数 模板 实例化“Array<BYTE>::Array<UINT,UINT,int>(UINT,UINT,int)”的引用
+c:\users\www\desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_zonghe4\z_4_resources\picreader.h(39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  All 50 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Z_4_Resources.vcxproj -> C:\Users\www\Desktop\李至霖\学习\大二下\高程\大作业\字符画\1852979_ZongHe4\x64\Release\Z_4_Resources.exe

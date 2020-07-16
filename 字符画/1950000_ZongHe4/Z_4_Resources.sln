@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Z_4_Resources", "Z_4_Resources\Z_4_Resources.vcxproj", "{EDDA178B-A388-4EE3-B66C-EA392405B957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Debug|x64.ActiveCfg = Debug|x64
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Debug|x64.Build.0 = Debug|x64
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Debug|x86.ActiveCfg = Debug|Win32
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Debug|x86.Build.0 = Debug|Win32
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Release|x64.ActiveCfg = Release|x64
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Release|x64.Build.0 = Release|x64
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Release|x86.ActiveCfg = Release|Win32
+		{EDDA178B-A388-4EE3-B66C-EA392405B957}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79F1ADF3-1FF5-4277-9AD1-FF1F3B915C0C}
+	EndGlobalSection
+EndGlobal
